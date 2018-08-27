@@ -1,1 +1,3 @@
 My first file with git
+git is a distributed version control systems
+GIT is a free software distributed under GPL
