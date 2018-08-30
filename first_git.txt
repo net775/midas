@@ -2,4 +2,8 @@ My first file with git
 git is a distributed version control systems
 GIT is a free software distributed under GPL
 git has a mutable index called stage
-create a new batch is quik & "git checkout -b"
+<<<<<<< HEAD
+create a new batch is quik AND "git checkout -b"
+=======
+create a new batch is quik AND "git checkout -b"
+>>>>>>> feature1
